@@ -17,12 +17,6 @@ programacion-dispositivos-moviles-2025/
 ├── unidad-5/ # Programación para Android
 └── unidad-7/ # Desarrollo de aplicación móvil
 
-## 📅 Próximas Entregas
-| Fecha       | Unidad | Actividad | Estado |
-|-------------|--------|-----------|--------|
-| 04/09/2025  | 1      | Act. 1    | ⏳ Pendiente |
-| 11/09/2025  | 1      | Act. 2    | ⏳ Pendiente |
-
 ## 🔗 Enlaces Útiles
 - [Plataforma Expo](https://expo.dev)
 - [Snack Expo](https://snack.expo.dev)
