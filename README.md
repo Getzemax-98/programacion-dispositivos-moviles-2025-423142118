@@ -10,12 +10,12 @@ Repositorio para las actividades de la asignatura **Programación de Dispositivo
 
 ## 🗂️ Estructura del Repositorio
 programacion-dispositivos-moviles-2025/
-├── unidad-1/ # Introducción a tecnologías móviles
-├── unidad-2/ # Características del desarrollo móvil
-├── unidad-3/ # Fundamentos de programación
-├── unidad-4/ # Programación para iOS
-├── unidad-5/ # Programación para Android
-└── unidad-7/ # Desarrollo de aplicación móvil
+- ├── unidad-1/ # Introducción a tecnologías móviles
+- ├── unidad-2/ # Características del desarrollo móvil
+- ├── unidad-3/ # Fundamentos de programación
+- ├── unidad-4/ # Programación para iOS
+- ├── unidad-5/ # Programación para Android
+- └── unidad-7/ # Desarrollo de aplicación móvil
 
 ## 🔗 Enlaces Útiles
 - [Plataforma Expo](https://expo.dev)
